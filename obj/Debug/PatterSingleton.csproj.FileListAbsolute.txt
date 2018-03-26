@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\_MyGit\PatterSingleton\bin\Debug\PatterSingleton.exe.config
+C:\Users\HP\Documents\_MyGit\PatterSingleton\bin\Debug\PatterSingleton.exe
+C:\Users\HP\Documents\_MyGit\PatterSingleton\bin\Debug\PatterSingleton.pdb
+C:\Users\HP\Documents\_MyGit\PatterSingleton\obj\Debug\PatterSingleton.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\_MyGit\PatterSingleton\obj\Debug\PatterSingleton.exe
+C:\Users\HP\Documents\_MyGit\PatterSingleton\obj\Debug\PatterSingleton.pdb
